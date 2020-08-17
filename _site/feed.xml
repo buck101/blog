@@ -3,10 +3,10 @@
   <channel>
     <title>陈辉的博客</title>
     <description>stay healthy stay brave</description>
-    <link>http://192.168.1.199:28385/</link>
-    <atom:link href="http://192.168.1.199:28385/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 17 Aug 2020 16:10:34 +0800</pubDate>
-    <lastBuildDate>Mon, 17 Aug 2020 16:10:34 +0800</lastBuildDate>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 17 Aug 2020 11:53:03 +0800</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2020 11:53:03 +0800</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -269,8 +269,8 @@ no-cli
 
 </description>
         <pubDate>Thu, 23 Nov 2017 00:00:00 +0800</pubDate>
-        <link>http://192.168.1.199:28385/2017/11/23/have_fun_with_webrtc_1/</link>
-        <guid isPermaLink="true">http://192.168.1.199:28385/2017/11/23/have_fun_with_webrtc_1/</guid>
+        <link>http://0.0.0.0:4000/2017/11/23/have_fun_with_webrtc_1/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2017/11/23/have_fun_with_webrtc_1/</guid>
         
         <category>WebRTC</category>
         
@@ -391,8 +391,8 @@ pm25,pm25_aqi,pm10,pm10_aqi,form等相当于非主键（注意loc和pm25之间�
 
 </description>
         <pubDate>Thu, 29 Dec 2016 00:00:00 +0800</pubDate>
-        <link>http://192.168.1.199:28385/2016/12/29/raspberry-pi-pm25-monitor/</link>
-        <guid isPermaLink="true">http://192.168.1.199:28385/2016/12/29/raspberry-pi-pm25-monitor/</guid>
+        <link>http://0.0.0.0:4000/2016/12/29/raspberry-pi-pm25-monitor/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2016/12/29/raspberry-pi-pm25-monitor/</guid>
         
         <category>树莓派</category>
         
@@ -439,8 +439,8 @@ mount -t tmpfs -o size=16M tmpfs  /var/www/hls
 
 </description>
         <pubDate>Thu, 23 Apr 2015 00:00:00 +0800</pubDate>
-        <link>http://192.168.1.199:28385/2015/04/23/raspberry-pi-http-live-streaming/</link>
-        <guid isPermaLink="true">http://192.168.1.199:28385/2015/04/23/raspberry-pi-http-live-streaming/</guid>
+        <link>http://0.0.0.0:4000/2015/04/23/raspberry-pi-http-live-streaming/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2015/04/23/raspberry-pi-http-live-streaming/</guid>
         
         <category>树莓派</category>
         
@@ -492,8 +492,8 @@ mount -t tmpfs -o size=16M tmpfs  /var/www/hls
 
 </description>
         <pubDate>Wed, 08 Apr 2015 00:00:00 +0800</pubDate>
-        <link>http://192.168.1.199:28385/2015/04/08/jack-ma-nanzao-interview/</link>
-        <guid isPermaLink="true">http://192.168.1.199:28385/2015/04/08/jack-ma-nanzao-interview/</guid>
+        <link>http://0.0.0.0:4000/2015/04/08/jack-ma-nanzao-interview/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2015/04/08/jack-ma-nanzao-interview/</guid>
         
         <category>商业</category>
         
@@ -530,8 +530,8 @@ mount -t tmpfs -o size=16M tmpfs  /var/www/hls
 &lt;p&gt;&lt;img src=&quot;/img/2015-03-01-baofeng-cloud-online/logo.jpg&quot; alt=&quot;BaofengCloud&quot; title=&quot;暴风云视频logo&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Mar 2015 00:00:00 +0800</pubDate>
-        <link>http://192.168.1.199:28385/2015/03/01/baofeng-cloud-online/</link>
-        <guid isPermaLink="true">http://192.168.1.199:28385/2015/03/01/baofeng-cloud-online/</guid>
+        <link>http://0.0.0.0:4000/2015/03/01/baofeng-cloud-online/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2015/03/01/baofeng-cloud-online/</guid>
         
         <category>项目</category>
         
@@ -821,8 +821,8 @@ Bob--&amp;gt;Alice: I am good thanks!&lt;/span&gt;&lt;span class=&quot;dl&quot;&
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 19 Feb 2015 00:00:00 +0800</pubDate>
-        <link>http://192.168.1.199:28385/2015/02/19/markdown/</link>
-        <guid isPermaLink="true">http://192.168.1.199:28385/2015/02/19/markdown/</guid>
+        <link>http://0.0.0.0:4000/2015/02/19/markdown/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2015/02/19/markdown/</guid>
         
         <category>markdown</category>
         
@@ -843,8 +843,8 @@ Bob--&amp;gt;Alice: I am good thanks!&lt;/span&gt;&lt;span class=&quot;dl&quot;&
 
 </description>
         <pubDate>Tue, 20 Jan 2015 00:00:00 +0800</pubDate>
-        <link>http://192.168.1.199:28385/2015/01/20/matrix-I-summary/</link>
-        <guid isPermaLink="true">http://192.168.1.199:28385/2015/01/20/matrix-I-summary/</guid>
+        <link>http://0.0.0.0:4000/2015/01/20/matrix-I-summary/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2015/01/20/matrix-I-summary/</guid>
         
         <category>项目</category>
         
@@ -868,8 +868,8 @@ Bob--&amp;gt;Alice: I am good thanks!&lt;/span&gt;&lt;span class=&quot;dl&quot;&
 &lt;h2 id=&quot;笔记&quot;&gt;笔记&lt;/h2&gt;
 </description>
         <pubDate>Wed, 31 Dec 2014 00:00:00 +0800</pubDate>
-        <link>http://192.168.1.199:28385/2014/12/31/first-article/</link>
-        <guid isPermaLink="true">http://192.168.1.199:28385/2014/12/31/first-article/</guid>
+        <link>http://0.0.0.0:4000/2014/12/31/first-article/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2014/12/31/first-article/</guid>
         
         <category>^_^</category>
         
@@ -916,8 +916,8 @@ Bob--&amp;gt;Alice: I am good thanks!&lt;/span&gt;&lt;span class=&quot;dl&quot;&
 &lt;p&gt;思考比较零散，写得断断续续的。&lt;/p&gt;
 </description>
         <pubDate>Wed, 14 Jul 2010 00:00:00 +0800</pubDate>
-        <link>http://192.168.1.199:28385/2010/07/14/first-thoughts-on-aesthetics/</link>
-        <guid isPermaLink="true">http://192.168.1.199:28385/2010/07/14/first-thoughts-on-aesthetics/</guid>
+        <link>http://0.0.0.0:4000/2010/07/14/first-thoughts-on-aesthetics/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2010/07/14/first-thoughts-on-aesthetics/</guid>
         
         <category>哲学</category>
         
