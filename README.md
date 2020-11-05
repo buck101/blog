@@ -9,7 +9,7 @@
   https://github.com/Huxpro/huxpro.github.io
 
 
-安装与运行方法：
+## 安装与运行方法：
 
 sudo apt  install ruby-bundler ruby-full ruby-dev
 
