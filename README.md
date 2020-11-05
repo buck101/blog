@@ -9,6 +9,25 @@
   https://github.com/Huxpro/huxpro.github.io
 
 
+安装与运行方法：
+
+sudo apt  install ruby-bundler ruby-full ruby-dev
+
+gem update bundler
+
+bundle add jekyll
+
+gem update jekyll
+
+gem update github-pages
+
+gem install pygments.rb
+
+gem install redcarpet
+
+bundle install
+
+bundle exec jekyll serve --host 0.0.0.0 --port 80 
 
 
 博客用到了
