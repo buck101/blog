@@ -71,7 +71,7 @@ ga_domain: blog.51buck.com
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "realChenHui@gmail.com"
-sidebar-avatar: /img/my.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/my-rgq.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
